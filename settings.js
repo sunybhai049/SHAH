@@ -2,34 +2,34 @@
 
 ██▓▒­░ ►▬ WELCOME ▬◄ ░▒▓██
 
-© Malvin King 
-WhatsApp Me : 263780166288
+© Murshad678 KING 
+WhatsApp Me : 923030043678
 
  - Source ↓
- - t.me/malvintech 
- - wa.me/263780166288
- - https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+ - t.me/murtazashah 
+ - wa.me/923030043678
+ - https://whatsapp.com/channel/0029VaaQzsnLCoX7eCKhOE19
 
 */
 
 require("./all/module.js")
 
 //========== Setting Owner ==========//
-global.owner = "263780166288"
-global.namaowner = "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
-global.namaowner2 = "ʟᴏʀᴅ ᴍᴀʟᴠɪɴ"
+global.owner = "923030043678"
+global.namaowner = "ᴍURSHAD678 ᴋɪɴɢ"
+global.namaowner2 = "ʟᴏʀᴅ SHAH"
 
 //======== Setting Bot & Link ========//
-global.namabot = "ᴍᴋ-𝚋𝚘𝚝" 
-global.namabot2 = "ᴍᴋ-𝚋𝚘𝚝"
+global.namabot = "GM-𝚋𝚘𝚝" 
+global.namabot2 = "GM-𝚋𝚘𝚝"
 global.version = "v2"
-global.foother = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋᴊɴɢ"
-global.linkgc = 'https://youtube.com/@malvintech2'
-global.linksaluran = "https://youtube.com/@malvintech2"
-global.linkyt = 'https://youtube.com/@malvintech2'
-global.linktele = "https://t.me/malvintech"
-global.packname = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴋ-ʙᴏᴛ"
-global.author = "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+global.foother = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍURSHAD ᴋᴊɴɢ"
+global.linkgc = 'https://youtube.com/@aryanaistory'
+global.linksaluran = "https://youtube.com/@aryanaistory"
+global.linkyt = 'https://youtube.com/@aryanaistory'
+global.linktele = "https://t.me/murtazashah"
+global.packname = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ GM-ʙᴏᴛ"
+global.author = "ᴍURSHAH678 ᴋɪɴɢ"
 
 //========== Setting Event ==========//
 global.welcome = true
@@ -43,7 +43,7 @@ global.antibug = true
 //========= Setting Message =========//
 global.msg = {
     "error": "🤖 *Oopsie!* Something went wrong. Maybe try again? Or blame the developer. Your call!",
-    "done": "✅ *Mission Accomplished!* All systems go, Mk finished the task!", 
+    "done": "✅ *Mission Accomplished!* All systems go, GM finished the task!", 
     "wait": "⏳ *Hold your horses!* I’m working on it... (No, seriously, I’m not slacking off.", 
     "group": "*• Group Only* This feature is only for groups!", 
     "private": "*• Private Chat* This feature is only for private chats!", 
@@ -62,7 +62,7 @@ fs.watchFile(file, () => {
 	require(file)
 })
 
-//----------------------[ MALVIN-K ]----------------------//
+//----------------------[ MURSHAD-KING ]----------------------//
 // Mk is like a cat. It might ignore you, but it knows what you’re up to. 🐱
 // It only responds when it feels like it. It’s the true master of mystery.
 // Please proceed with caution. Our code doesn’t bite, but it might give you an awkward look.
