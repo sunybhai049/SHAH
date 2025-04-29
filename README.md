@@ -21,8 +21,8 @@ SHAH bot v²
   <a href="https://github.com/sunybhai049/SHAH.git/network/members">
     <img src="https://img.shields.io/github/forks/sunybhai049/shah?label=Forks&style=flat&color=orange" alt="GitHub Forks" />
   </a>
-  <a href="https://github.com/XdKing2/Mk-bot/watchers">
-    <img src="https://img.shields.io/github/watchers/XdKing2/Mk-bot?label=Watching&style=flat&color=purple" alt="GitHub Watchers" />
+  <a href="https://github.com/sunybhai049/shah/watchers">
+    <img src="https://img.shields.io/github/watchers/sunybhai049/shah?label=Watching&style=flat&color=purple" alt="GitHub Watchers" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@ SHAH bot v²
 •FORK THIS REPO
 
  <p align="left">
-  <a href="https://github.com/XdKing2/Mk-bot/fork">
+  <a href="https://github.com/sunybhai049/shah/fork">
     <img src="https://img.shields.io/badge/Fork-MK--Bot-%2393FF005C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -61,7 +61,7 @@ SHAH bot v²
 - Upload the files to your panel
 - Unzip the files on your panel
 
-### 📥 Get MK-BOT
+### 📥 Get GM-BOT
 
 > **Download the bot file**
 <p align="left">  
@@ -105,7 +105,7 @@ SHAH bot v²
 - **📢 WhatsApp Channel** – Get instant updates, feature drops & dev alerts  
   [![WhatsApp Channel](https://img.shields.io/badge/Join%20WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaaQzsnLCoX7eCKhOE19)  
 
-- **▶️ YouTube: MalvinTech** – Watch tutorials, pro tricks, and setup walkthroughs  
+- **▶️ YouTube: MURSHAD** – Watch tutorials, pro tricks, and setup walkthroughs  
   [![YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aryanaistory)
 
 > **Stay legendary, coder. Happy hacking!** 🚀
