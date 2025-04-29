@@ -1,12 +1,12 @@
 {
-  "name": "Lord-Mk",
+  "name": "Lord-SHAH",
   "version": "1.0.0",
   "description": "WhatsApp Bot 2025",
   "type": "commonjs",
   "scripts": {
     "start": "node main.js"
   },
-  "author": "Malvin King",
+  "author": "Murshad678 King",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
