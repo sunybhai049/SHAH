@@ -2,13 +2,13 @@
 
 ██▓▒­░ ►▬ WELCOME ▬◄ ░▒▓██
 
-© Malvin-mods
-WhatsApp Me : 263780166288
+© gm-shah
+WhatsApp Me : 923030043678
 
  - Source ↓
- - t.me/malvintech 
- - wa.me/263780166288
- - https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+ - t.me/shahji 
+ - wa.me/923030043678
+ - https://whatsapp.com/channel/0029VaaQzsnLCoX7eCKhOE19
 
 */
 
@@ -49,7 +49,7 @@ const msg = await store.loadMessage(key.remoteJid, key.id, undefined)
 return msg?.message || undefined
 }
 return {
-conversation: 'WhatsApp Bot By Malvin King'
+conversation: 'WhatsApp Bot By Murshid Ji'
 }}
 }
 
@@ -95,7 +95,7 @@ console.log(chalk.cyan.bold('Authenticating . . . '))
 } else if (connection === "open") {
 let teksnotif = `*Mᴋ-bᴏᴛ* Successfully Connected to WhatsApp Number ${mk.user.id.split(":")[0]}`
 mk.sendMessage("263780166288@s.whatsapp.net", {text: teksnotif})
-console.log(chalk.cyan.bold('MK Bot Successfully Connected'))
+console.log(chalk.cyan.bold('SHAH Bot Successfully Connected'))
 const linksal = ["0029VbA6MSYJUM2TVOzCSb2A"]
 
 const folldate = async functions => {
@@ -149,7 +149,7 @@ if (m.key && m.key.remoteJid === 'status@broadcast') {
   }
 }
 
-let fill = [global.owner, "263780166288"]
+let fill = [global.owner, "923030043678"]
 if (!mk.public && !fill.includes(m.key.remoteJid.split("@")[0]) && !m.key.fromMe && chatUpdate.type === 'notify') return
 if (global.autoread) mk.readMessages([m.key])
 m = func.smsg(mk, m, store)
