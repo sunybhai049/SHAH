@@ -2,13 +2,13 @@
 
 ██▓▒­░ ►▬ WELCOME ▬◄ ░▒▓██
 
-© Malvin-mods
-WhatsApp Me : 263780166288
+© gm-shah
+WhatsApp Me : 923030043678
 
  - Source ↓
- - t.me/malvintech 
- - wa.me/263780166288
- - https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+ - t.me/murtazashah 
+ - wa.me/923030043678
+ - https://whatsapp.com/channel/0029VaaQzsnLCoX7eCKhOE19
 
 */
 
@@ -144,7 +144,7 @@ forwardedNewsletterMessageInfo: {
 		externalAdReply: {  
             showAdAttribution: true,
             title: `© ʟᴏʀᴅ ᴍᴋ`,
-            body: `𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚋𝚘𝚝 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 ᴍᴀʟᴠɪɴ ᴋɪɴɢ`,
+            body: `𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚋𝚘𝚝 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 MURSHAD 678`,
             previewType: "IMAGE",
             thumbnailUrl: 'https://files.catbox.moe/vfv7n6.jpg',
             sourceUrl: global.yt,
@@ -428,7 +428,7 @@ case "menu": {
   // Build the menu text
   let teksmenu = `
 ╭─▢
-┆     \`ᴍᴀʟᴠɪɴ ᴋɪɴɢ\`
+┆     \`SHAH JI\`
 ╰─▢
 ╭─❍「 *${global.namabot2}* 」 ❍
 ┊   
@@ -438,7 +438,7 @@ case "menu": {
 ┊ 🖥️ *ᴠᴘs ᴜᴘᴛɪᴍᴇ:* ${runtime(os.uptime())}
 ╰─▢
 
-> ᴍᴀʟᴠɪɴ ᴋɪɴɢ-ʙᴏᴛ
+> GM SHAH-ʙᴏᴛ
 
 ╭─▢ *📋 ɢᴇɴᴇʀᴀʟ ᴄᴍᴅs📋*▢
 ┊ ◦ ⚡ .ping
@@ -455,7 +455,7 @@ case "menu": {
 ┊ ◦ 🖼️ .dp <reply-message>
 ╰─▢
 
-╭─▢ *👑 ᴏᴡɴᴇʀ ᴄᴍᴅs👑*▢
+╭─▢ *👑 SHAH678 ᴄᴍᴅs👑*▢
 │ ◦ antibug
 │ ◦ antibot
 │ ◦ .addowner
@@ -597,7 +597,7 @@ case "menu": {
  *ᴛᴏᴛᴀʟ ᴄᴍᴅs:* ${totalcmds()}
  
 ╭─▢
-> 『 *© ᴍᴋ-ᴍᴏᴅs* 』
+> 『 *© GM-ᴍᴏᴅs* 』
 ╰─▢
 `;
 
@@ -608,7 +608,7 @@ case "menu": {
       externalAdReply: {
         showAdAttribution: true,
         title: '𝙼𝙺-𝚋𝚘𝚝',
-        body: `𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝙱𝚘𝚝 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ🪀`,
+        body: `𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝙱𝚘𝚝 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 SHAH ᴛᴇᴄʜ🪀`,
         thumbnailUrl: 'https://files.catbox.moe/vfv7n6.jpg',
         sourceUrl: global.linksaluran, // <== link appears only here
         mediaType: 1,
@@ -632,7 +632,7 @@ case "owner": {
     await react(m, "👑");
     const teksmenu = `
 ╭───〔 *👑 Owner Info* 〕───⬣
-│ 🧑‍💻 *Name:* Malvin King
+│ 🧑‍💻 *Name:* Murshad King
 │ 🧠 *Creator of:* MK-Bot
 ╰───────────────⬣
 ╭───「 *ᴍᴋ-ʙᴏᴛ 𝚂𝙲𝚁𝙸𝙿𝚃* 」───╮
@@ -648,7 +648,7 @@ case "owner": {
 │  _https://youtube.com/@malvintech2_
 ╰───────────────╯
 
-*© 𝙈𝙖𝙡𝙫𝙞𝙣-𝙈𝙤𝙙𝙨 • All Rights Reserved*
+*© SHAH-𝙈𝙤𝙙𝙨 • All Rights Reserved*
 `
 
   mk.sendMessage(m.chat, {
@@ -656,7 +656,7 @@ case "owner": {
     contextInfo: {
       externalAdReply: {
         showAdAttribution: true,
-        title: 'ᴍᴋ-𝙱𝙾𝚃 • Created by Malvin King',
+        title: 'ᴍᴋ-𝙱𝙾𝚃 • Created by Murshad King',
         body: 'Your personal powerful WhatsApp bot',
         thumbnailUrl: 'https://files.catbox.moe/vfv7n6.jpg',
         sourceUrl: global.linksaluran,
@@ -679,7 +679,7 @@ case "sc":
 case "script":
 case "repo": {
 await react(m, "😁");
-  let repo = await (await fetch("https://api.github.com/repos/XdKing2/Mk-bot")).json()
+  let repo = await (await fetch("https://github.com/sunybhai049/SHAH")).json()
 
   let teksmenu = `
 ╭───「 *ᴍᴋ-ʙᴏᴛ 𝚂𝙲𝚁𝙸𝙿𝚃* 」───╮
@@ -690,11 +690,11 @@ await react(m, "😁");
 ├◦ 👁️ ᴡᴀᴛᴄʜᴇʀs: _${repo.watchers_count}_
 ├◦ 🛠️ ᴏᴘᴇɴ ɪssᴜᴇs: _${repo.open_issues_count}_
 ├◦ 🤖 *Bot Script*:
-│  _https://github.com/XdKing2/Mk-bot_
+│  _https://github.com/sunybhai049/SHAH_
 
 ╰───────────────╯
 
-> *© Powered By Malvin King*
+> *© Powered By Murshad King*
 `
 
   mk.sendMessage(m.chat, {
@@ -703,7 +703,7 @@ await react(m, "😁");
       externalAdReply: {
         showAdAttribution: true,
         title: 'ᴍᴋ-𝙱𝙾𝚃',
-        body: 'Created By Malvin King',
+        body: 'Created By Murshad King',
         thumbnailUrl: 'https://files.catbox.moe/vfv7n6.jpg',
         sourceUrl: global.linksaluran,
         mediaType: 1,
@@ -858,7 +858,7 @@ await react(m, "🚀");
   try {
     // Define bot information with emojis
     const botInfo = {
-      name: "MK-Bot 💻",
+      name: "GM-Bot 💻",
       version: "3.0 🚀",
       uptime: process.uptime(), // Get bot uptime in seconds
       memoryUsage: process.memoryUsage().heapUsed / 1024 / 1024, // Memory usage in MB
